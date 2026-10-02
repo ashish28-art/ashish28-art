@@ -12,11 +12,9 @@ Frontend developer building practical web applications with JavaScript and React
 
 **Tooling** — Git, GitHub, Vercel, ESLint
 
-## Selected Projects
+## Featured Project
 
-**[Vervana](https://github.com/ashish28-art/Vervana)** — E-commerce storefront with product search, filtering, a localStorage-persisted cart, wishlist, and Firebase authentication. React · Redux Toolkit · Tailwind CSS. [Live demo](https://vervana-nine.vercel.app)
-
-**[PopX](https://github.com/ashish28-art/popx)** — Multi-screen mobile onboarding UI (welcome, sign-in, sign-up, profile) with client-side form validation. React · Vite · Tailwind CSS. [Live demo](https://popx-inky-three.vercel.app)
+**[Vervana](https://github.com/ashish28-art/Vervana)** — E-commerce storefront with live product data, search, filtering, a persisted cart, wishlist, and Firebase authentication. React · Redux Toolkit · Tailwind CSS. [Live demo](https://vervana-nine.vercel.app)
 
 ## Contact
 
