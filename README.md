@@ -18,8 +18,6 @@ Frontend developer building practical web applications with JavaScript and React
 
 **[PopX](https://github.com/ashish28-art/popx)** — Multi-screen mobile onboarding UI (welcome, sign-in, sign-up, profile) with client-side form validation. React · Vite · Tailwind CSS. [Live demo](https://popx-inky-three.vercel.app)
 
-**[Tic-Tac-Toe](https://github.com/ashish28-art/tic-tac-toe)** — Vanilla JavaScript game with win-pattern detection and a reset flow — where I started learning DOM logic.
-
 ## Contact
 
 - GitHub: [@ashish28-art](https://github.com/ashish28-art)
